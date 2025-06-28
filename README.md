@@ -237,9 +237,9 @@ graph TD
 <td align="center">
 <img src="https://github.com/KnightofInd.png" width="100px;" alt="KnightofInd"/>
 <br />
-<sub><b>🗡️ KnightofInd</b></sub>
+<sub><b>🗡️ Rohan Sharma</b></sub>
 <br />
-<sub>Creator & Lead Developer</sub>
+<sub>Creator & Developer</sub>
 <br />
 <a href="https://github.com/KnightofInd" title="GitHub">🔗</a>
 </td>
