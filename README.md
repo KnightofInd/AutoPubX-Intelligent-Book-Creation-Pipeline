@@ -1,6 +1,6 @@
-# Automated-Book-Publication-Workflow
+# AutoPubX: Intelligent Book Creation Pipeline
 
-# 📘 Automated Book Publication Workflow
+# 📘 AutoPubX: Intelligent Book Creation Pipeline
 
 An intelligent and automated pipeline to extract book chapters from the web, rewrite ("spin") them using AI, enable iterative human input, and store final outputs with version control and intelligent retrieval.
 
